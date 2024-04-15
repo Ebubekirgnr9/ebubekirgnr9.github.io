@@ -28,9 +28,3 @@
     font-size: 12px;
     
 }
-.fikstur .col-xl-4:hover{
-
-    background-image: linear-gradient(to right, rgb(0, 0, 0) , rgb(199, 199, 5));
-   
-    color: white;
-}
